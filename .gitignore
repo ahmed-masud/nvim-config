@@ -1,0 +1,13 @@
+# Lazy.nvim plugin installs (installed on first run)
+lazy-lock.json
+
+# Swap, backup, undo files
+*.swp
+*.swo
+*~
+
+# Neovim session files
+Session.vim
+
+# OS
+.DS_Store
