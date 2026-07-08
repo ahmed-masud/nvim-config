@@ -80,9 +80,9 @@ Once inside, install the treesitter parsers:
 
 | Command | Action |
 |---|---|
-| `:TSInstall <lang>` | Install a parser (e.g. `:TSInstall go`) |
+| `:TSInstall {lang}` | Install a parser (e.g. `:TSInstall go`) |
 | `:TSUpdate` | Update all installed parsers |
-| `:TSUninstall <lang>` | Remove a parser |
+| `:TSUninstall {lang}` | Remove a parser |
 | `:checkhealth nvim-treesitter` | Verify parser status |
 
 ### Theme variants
